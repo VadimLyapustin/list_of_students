@@ -1,0 +1,16 @@
+E:\c#\list_students1\list_students1\bin\Debug\net5.0\list_students1.exe
+E:\c#\list_students1\list_students1\bin\Debug\net5.0\list_students1.deps.json
+E:\c#\list_students1\list_students1\bin\Debug\net5.0\list_students1.runtimeconfig.json
+E:\c#\list_students1\list_students1\bin\Debug\net5.0\list_students1.runtimeconfig.dev.json
+E:\c#\list_students1\list_students1\bin\Debug\net5.0\list_students1.dll
+E:\c#\list_students1\list_students1\bin\Debug\net5.0\ref\list_students1.dll
+E:\c#\list_students1\list_students1\bin\Debug\net5.0\list_students1.pdb
+E:\c#\list_students1\list_students1\obj\Debug\net5.0\list_students1.csproj.AssemblyReference.cache
+E:\c#\list_students1\list_students1\obj\Debug\net5.0\list_students1.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\list_students1\list_students1\obj\Debug\net5.0\list_students1.AssemblyInfoInputs.cache
+E:\c#\list_students1\list_students1\obj\Debug\net5.0\list_students1.AssemblyInfo.cs
+E:\c#\list_students1\list_students1\obj\Debug\net5.0\list_students1.csproj.CoreCompileInputs.cache
+E:\c#\list_students1\list_students1\obj\Debug\net5.0\list_students1.dll
+E:\c#\list_students1\list_students1\obj\Debug\net5.0\ref\list_students1.dll
+E:\c#\list_students1\list_students1\obj\Debug\net5.0\list_students1.pdb
+E:\c#\list_students1\list_students1\obj\Debug\net5.0\list_students1.genruntimeconfig.cache
